@@ -1,2 +1,7 @@
 # hello-world
-This is a hello world project for COMP 1111
+=============
+
+Hi Humans!
+
+Comp1111.  I like this I like that.
+I eat tacos and stuff and travel the moon and stuff.
